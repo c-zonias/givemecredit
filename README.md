@@ -16,8 +16,8 @@ The goal of this project is to build a predictive model that can help identify b
 ```
 /                      # Root directory
 |-- givemecredit.ipynb # Main Jupyter Notebook
-|-- data/              # Dataset (not included in the repo for privacy)
-|-- models/            # Saved models (if applicable)
+|-- data/              # Dataset
+|-- models/            # Saved models
 |-- README.md          # Project documentation
 ```
 
