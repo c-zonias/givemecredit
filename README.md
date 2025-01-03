@@ -63,6 +63,6 @@ The dataset used in this project comes from a Kaggle competition, "Give Me Some 
 The model achieved the following performance metrics on the test set:
 - AUC: 0.95
 - Accuracy:
-- F1-score: *Insert F1-score value*
+- F1-score:
 
 
